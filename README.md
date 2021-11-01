@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @n-mrani
+- 👋 Hi, I’m Nabil MRANI
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning deep learning 
 - 💞️ I’m looking to collaborate on IA projects
